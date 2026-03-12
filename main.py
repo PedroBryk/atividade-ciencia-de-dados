@@ -61,7 +61,7 @@ mes_pico = df.groupby('mes').size().idxmax()
 #30% e valor final: 419.93
 
 #3 Quantos pedidos foram devolvidos no total? Qual a porcentagem em relação ao total?
-#2
+#2 pedidos devolvidos 4.00%
 
 #4 Qual categoria gerou mais receita? Qual gerou menos? Existe alguma surpresa nos resultados?
 #Eletronicos gerou mais, livros gerou menos
